@@ -1,0 +1,207 @@
+
+@media only screen and (max-width: 600px) {
+.NAVBAR{
+    display: flex;
+    justify-content: space-between;
+    border: 2PX solid WHITE;
+    height: 60PX;
+    width: 100%;
+    background-color: rgb(16, 17, 29);
+   
+}
+.LOGO{
+    
+   border-radius: 20px;
+    height: 55PX;
+    width: 20%;
+ 
+ background-size: contain;
+ background-repeat: no-repeat;
+ background-position:center;
+}
+.nsecbox{ 
+    background-color: aliceblue;
+    margin-top: 3px;
+    border-radius: 120px;
+    border: 3px solid white;
+    height: 90%; 
+    width: 10%;
+    
+}
+h1{  font-size: small;
+    text-align: center;
+ 
+}
+h3{  text-align: buttom;
+    font-size: xx-small;
+}
+input{ 
+ 
+  
+    margin-top: 10px;
+    height: 35px;
+    width:80%;
+}
+.SARCHICON{
+  
+    margin-top: 11px;
+    height: 33PX;
+    width: 10%;
+    background-color: rgba(211, 133, 31, 0.616); 
+}
+header{
+    border-radius: 20px;
+}
+.sarchbox{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile{
+    height: 40px;
+    width:10%;
+}
+
+.IMG{ 
+    border-top: 3PX solid WHITE;
+    
+    margin-top:1PX ;    
+    
+    height: 500px;
+    width: 100%;
+    background-image: url("GBPHOTO.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+BOXS{
+    
+    display:inline;
+
+   
+   
+
+}
+.BOX{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin-top:70PX ;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image: url("SHOES.webp");
+    background-size: obje;
+    background-position: center;
+}
+.BOX1{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin-top:10PX ;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+  background-image: url("SHOCKS.jpg");
+  background-size: contain;
+}
+.BOX2{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin: top 10px; ;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image:url("SANDAL.jpg") ;
+   
+    background-size: contain;
+}
+.BOX3{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin: top 10px;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+  background-image: url("SLIPER.jpg");
+  background-size: contain;
+}
+.HADING{
+    border-radius: 5px;
+    filter:blur(0.5PX);
+    margin-top: 5PX;
+    margin-left: 60PX;
+    height: 25PX;
+    width: 70%;
+    border: 2PX solid rgb(0, 0, 0);
+    color: aliceblue;
+    background-color: #1d1d2b;
+}
+   
+BOXS2ROW{
+   
+   display: inline;
+}
+.BOXR{
+    border-radius: 5px;
+    border: 1PX solid black;
+   
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image: url("JACKET.jpg");
+    background-size: cover;
+}
+
+.BOXR1{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin-top:10px;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image: url("T-SHARTS.jpg");
+    background-size: cover;
+}
+.BOXR2{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin-top:10px;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image: url("PENT.jpg");
+    background-size: cover;
+}
+
+
+.BOXR3{
+    border-radius: 5px;
+    border: 1PX solid black;
+    margin-top:10px;
+    margin-left:5PX;
+    height: 50%;
+    width: 98%;
+    background-image: url("HUDY.webp");
+    background-size: cover;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
+.ADD{
+    margin-top:2PX;
+    border: 3PX solid rgb(0, 0, 0);
+    height: 30PX;
+   
+    background-color: black;
+    color: azure;
+}
+p{
+
+    text-align: center;
+    font-size:xx-small;
+}
+
+}
